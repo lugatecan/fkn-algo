@@ -1,0 +1,12 @@
+1. Reading: Framework for learning Data Structurea and Algorithms: 
+	Questions from Part1:  
+		a. What are binary search trees (BST), AVL trees, red-black trees, interval trees, B-trees and how do they relate to linked lists?
+		b. Difference bween Graphs / Hashtables(both adjancy tables and adjacency Matrices), heaps(based on arrays) vs treesbased on (based on lists)?
+	Good Points from Part 2:  
+		a. "There are many kinds of data structures, but their purpose is to add, delete, search and modify them as efficiently as possible"
+		b. Tranverse and Access: Linear is represented by for / while iteration, and nonlinear is represented by recursion
+
+
+Where am I now?
+	Part 2 of Reading Framework for Learning Data Structures and Algorithms
+
